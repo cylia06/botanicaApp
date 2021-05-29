@@ -1,5 +1,4 @@
 
-
 const String APP_TITLE = 'PLant UI';
 const String homePlantImg =
     'https://i-mcr.unimedias.fr/sites/art-de-vivre/files/styles/large/public/mcr-kids-jardin.jpg?auto=compress%2Cformat&crop=faces%2Cedges&cs=srgb&fit=crop';
@@ -14,7 +13,7 @@ const List<Map<String, Object>> trees = [
     'name': 'Moreton Bay fig',
     'max_height': '35',
     'plant_url':
-        'https://www.americanforests.org/wp-content/uploads/2015/10/Rainbow-Eucalyptus.jpg',
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_AHJHbM-4uX9sfQjQKxXjiujMPEfcN-aq5w&usqp=CAU',
   },
   {
     'name': 'Monkey Puzzel tree',
@@ -42,14 +41,14 @@ const List<Map<String, Object>> shrubs = [
     'max_height': '35',
      'shrub_type': "annual",
     'plant_url':
-        'https://www.americanforests.org/wp-content/uploads/2015/10/Rainbow-Eucalyptus.jpg',
+        'https://images-na.ssl-images-amazon.com/images/I/61y7gDucnKL._AC_SL1000_.jpg',
   },
   {
     'name': 'Yucca',
     'max_height': '25',
      'shrub_type': "perennial",
     'plant_url':
-        'https://www.americanforests.org/wp-content/uploads/2015/10/Moreton-Bay-Fig.jpg',
+        'https://upload.wikimedia.org/wikipedia/commons/c/c9/Yucca_aloifolia_1.jpg',
   }
 ];
 const List<Map<String, Object>> herbs = [
@@ -58,14 +57,14 @@ const List<Map<String, Object>> herbs = [
     'max_height': '30',
     'colories': '29',
     'plant_url':
-        'https://previews.123rf.com/images/cmspic/cmspic1105/cmspic110500015/9646433-a-group-of-silver-birch-trees.jpg',
+        'https://upload.wikimedia.org/wikipedia/commons/9/90/Basil-Basilico-Ocimum_basilicum-albahaca.jpg',
   },
   {
     'name': 'Mint',
     'max_height': '35',
     'colories': '29',
     'plant_url':
-        'https://www.americanforests.org/wp-content/uploads/2015/10/Rainbow-Eucalyptus.jpg',
+        'https://d11o8pt3cttu38.cloudfront.net/wp-content/uploads/sites/6/2017/07/shutterstock_376172818-1.jpg',
   }
 ];
 const List<Map<String, Object>> categoriesPlant = [
@@ -82,8 +81,9 @@ const List<Map<String, Object>> categoriesPlant = [
   {
     'title': 'Herbs',
     'imgUrl':
-        'https://www.thegardenwebsite.com/uploads/8/4/5/5/84557242/editor/aralia-spinosa-devil-s-walking-stick-hoyt-arboretum-oct-4.jpg',
+        'https://d11o8pt3cttu38.cloudfront.net/wp-content/uploads/sites/6/2017/07/shutterstock_376172818-1.jpg',
   }
   
 ];
+
 
